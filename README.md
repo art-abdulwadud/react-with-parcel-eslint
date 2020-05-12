@@ -1,5 +1,22 @@
 # Setting up react with parcel bundler and eslint
 
+## Install 
+
+You can use this as a starter template for react app.
+
+```
+git clone 
+```
+
+```
+yarn
+```
+After this your are all set up, go ahead and create your components.
+
+## Getting Started 
+
+A breif Tutorial to help you make a template like this from scratch.
+
 ```
 yarn init
 ```
